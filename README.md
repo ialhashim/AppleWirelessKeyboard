@@ -1,3 +1,5 @@
+Update: I found a better alternative here: https://github.com/samartzidis/WinA1314
+
 AppleWirelessKeyboard
 =====================
 
